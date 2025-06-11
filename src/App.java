@@ -5,3 +5,4 @@ public class App {
         System.out.println("開発を行ないます！");
     }
 }
+
